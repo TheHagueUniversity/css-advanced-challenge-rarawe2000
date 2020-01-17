@@ -90,20 +90,14 @@
 
 /*media queries -------------------------------*/
 
-@media (max-width: 800px) {
-    
-}
 
-@media (max-width: 600px) {
-    
+@media only screen and (max-width: 855px) {
+    .grid-container {   
+        grid-template-columns: 200px 350px 50px 200px;
+        grid-template-rows: 200px 100px 250px;    
+    }
 }
+    
 
-@media (max-width: 400px) {
-    
-}
-
-@media (max-width: 200px) {
-    
-}
 
 
