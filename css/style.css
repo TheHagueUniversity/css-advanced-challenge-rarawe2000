@@ -15,6 +15,12 @@
     border: 2px solid black;
 }
 
+.eight {
+    display: inline-grid;
+    grid-template-columns: 100px 100px 100px;
+    border: 2px solid black;
+}
+
 .ten {
     display: inline-grid;
     grid-template-columns: 100px 150px;
