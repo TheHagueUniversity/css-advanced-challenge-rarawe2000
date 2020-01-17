@@ -21,6 +21,12 @@
     border: 2px solid black;
 }
 
+.nine {
+    display: inline-grid;
+    grid-template-columns: 100px 200px;
+    border: 2px solid black;   
+}
+
 .ten {
     display: inline-grid;
     grid-template-columns: 100px 150px;
