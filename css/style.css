@@ -8,6 +8,14 @@
     border: 2px solid black;
 }
 
+.two {
+    background-color: red;
+}
+
+.four {
+    background-color: blue; 
+}
+
 .five {
     display: inline-grid;
     grid-template-columns: 100px 25px 75px 100px;
@@ -32,6 +40,10 @@
     grid-template-columns: 100px 150px;
     grid-template-rows: 150px 100px;
     border: 2px solid black; 
+}
+
+.eleven {
+    background-color: red;
 }
 
 .twelve {
