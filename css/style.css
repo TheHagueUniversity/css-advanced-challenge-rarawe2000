@@ -23,10 +23,31 @@
     border: 2px solid black;
 }
 
+.five-one {
+    background-color: yellow;
+}
+
+.five-three {
+    background-color: blue;
+}
+
+.five-six {
+    background-color: yellow;
+}
+
+.five-eleven {
+    background-color: red;
+}
+
+
 .eight {
     display: inline-grid;
     grid-template-columns: 100px 100px 100px;
     border: 2px solid black;
+}
+
+.eight-three {
+    background-color: yellow;
 }
 
 .nine {
