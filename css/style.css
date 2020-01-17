@@ -43,7 +43,6 @@
     background-color: yellow;
 }
 
-
 .eight {
     display: inline-grid;
     grid-template-columns: 100px 100px 100px;
@@ -88,3 +87,23 @@
 .twelve-two {
     background-color: yellow;
 }
+
+/*media queries -------------------------------*/
+
+@media (max-width: 800px) {
+    
+}
+
+@media (max-width: 600px) {
+    
+}
+
+@media (max-width: 400px) {
+    
+}
+
+@media (max-width: 200px) {
+    
+}
+
+
