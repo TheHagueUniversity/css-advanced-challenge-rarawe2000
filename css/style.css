@@ -39,6 +39,10 @@
     background-color: red;
 }
 
+.five-nine {
+    background-color: yellow;
+}
+
 
 .eight {
     display: inline-grid;
@@ -56,11 +60,19 @@
     border: 2px solid black;   
 }
 
+.nine-two {
+    background-color: blue;
+}
+
 .ten {
     display: inline-grid;
     grid-template-columns: 100px 150px;
     grid-template-rows: 150px 100px;
     border: 2px solid black; 
+}
+
+.ten-two {
+    background-color: yellow;
 }
 
 .eleven {
@@ -71,4 +83,8 @@
     display: inline-grid;
     grid-template-rows: 150px 100px;
     border: 2px solid black;
+}
+
+.twelve-two {
+    background-color: yellow;
 }
