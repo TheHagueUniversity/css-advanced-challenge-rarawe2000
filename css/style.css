@@ -94,10 +94,33 @@
 @media only screen and (max-width: 855px) {
     .grid-container {   
         grid-template-columns: 200px 350px 50px 200px;
-        grid-template-rows: 200px 100px 250px;    
+        grid-template-rows: 200px 100px 250px;
+    }
+    
+    .four {
+       background-color: yellow; 
+    }
+    
+    .eight-three {
+        background-color: red;
+    }
+    
+    .ten-four {
+        background-color: red;
     }
 }
     
-
+@media only screen and (max-width: 600px) {
+    .grid-container {   
+        grid-template-columns: 100px 450px 50px;
+        grid-template-rows: 50px 100px 250px;
+    }
+    
+    .seven {
+        background-color: yellow; 
+    }
+    
+    
+}
 
 
